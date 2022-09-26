@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Niranjanrgade
+- 👋 Hi, I’m @Niranjan
 - 👀 I’m interested in Java,Python developing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 
 
 <!---
