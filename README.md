@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niranjan
-- 👀 I’m interested in Java,Python developing
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in Data Engineering, Python developing
+- 🌱 I’m currently learning Databricks, Azure Data Factory
 
 
 <!---
